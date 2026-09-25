@@ -1,4 +1,4 @@
-# Health Intelligence Lab
+# Health Intelligence Lab (Projeto em construção)
 
 Análise de inteligência de mercado e sinistro no setor de saúde suplementar
 brasileiro, construída a partir de dados públicos da ANS (Agência Nacional de
