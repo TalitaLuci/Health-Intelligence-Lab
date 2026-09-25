@@ -1,0 +1,18 @@
+# Dados brutos da ANS — grandes (dezenas de MB cada) e publicamente
+# baixáveis; ver README > "Como reproduzir" para o processo de download.
+data/raw/
+
+# Ambiente Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Sistema operacional / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Power BI: arquivos temporários de cache local
+*.pbix.bak
